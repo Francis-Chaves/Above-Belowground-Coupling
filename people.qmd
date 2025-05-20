@@ -10,7 +10,7 @@ editor: visual
 
 </p>
 
-::: {style="text-align: right;"}
+::: {style="text-align: left;"}
 Abigail Borgmeier
 
 Ashley Bulseco
