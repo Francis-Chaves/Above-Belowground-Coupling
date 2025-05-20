@@ -6,6 +6,7 @@ editor: visual
 <p align="center">
 
 <img src="images/photos/ssecr-delarosa-2024-20-X3.jpg" alt="Above-Belowground Coupling Working Group People" width="60%"/>
+<figcaption>*Credit: Gabriel De La Rosa*</figcaption>
 
 </p>
 
