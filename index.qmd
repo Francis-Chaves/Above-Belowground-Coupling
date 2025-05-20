@@ -3,17 +3,28 @@ title: ""
 format: html
 editor: visual
 ---
- 
-<h1 style = "text-align:center; font_size:80px; font-weight:bold;">
+
+<p align="center">
+
+<img src="images/figures/rationale_fig.png" alt="Conceptual figure of the above and belowground association and some ecosystem services they provide" width="40%"/>
+
+</p>
+
+
+<h1 style="text-align:center; font_size:80px; font-weight:bold;">
 
 SABRE
 
 </h1>
 
-<h2 style = "text-align:center;">**S**ynchrony of **A**bove & **B**elowground **R**esponses across **E**cosystems</h2>
+<h2 style="text-align:center;">
+
+**S**ynchrony of **A**bove & **B**elowground **R**esponses across **E**cosystems
+
+</h2>
 
 We are a synthesis working group that started as part of the first cohort of the Synthesis Skills for Early Career Researchers (SSECR) course organized by the Long Term Ecological Research (LTER) Network. We are interested in the coupling of above and belowground communities, specifically plant and soil microbial communities, and their synchrony response to global change drivers across diverse ecosystems.
 
-Above and belowground communities are critical in supporting multiple ecosystem functions and services such as carbon sequestration, soil fertility and food production. Both, above and belowground communities are highly vulnerable to climate change and land degradation, making their study and conservation an urgent priority. Above and belowground communities interact dynamically, and understanding their coupled responses to global change drivers cannot be done with each component in isolation. To fully comprehend the temporal dynamics of their association, both subsystems need to studied in conjunction and require to be sampled repeatedly and simultaneously.
+Above and belowground communities are critical in supporting multiple ecosystem functions and services such as carbon sequestration, soil fertility and food production. Both, above and belowground communities are highly vulnerable to climate change and land degradation, making their study and conservation an urgent priority. Above and belowground communities interact dynamically, and understanding their coupled responses to global change drivers cannot be done studying each component in isolation. To fully comprehend the temporal dynamics of their association, both subsystems need to studied in conjunction and require to be sampled repeatedly and simultaneously.
 
 We are currently looking for paired above and belowground datasets, with particular focus on plant and soil microbial communities, that are spatially and temporally coordinated. This means they need to be sampled within the same sample units, during the same growing season and for three or more years. Data can be from experimental or observational studies.

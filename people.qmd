@@ -3,14 +3,13 @@ title: "Working Group People"
 editor: visual
 ---
 
-<p align = "center">
+<p align="center">
 
-<img src = "images/photos/ssecr-delarosa-2024-20-X3.jpg" alt = "Above-Belowground Coupling Working Group People" width = "60%"/>
+<img src="images/photos/ssecr-delarosa-2024-20-X3.jpg" alt="Above-Belowground Coupling Working Group People" width="60%"/>
 
 </p>
 
-<div style = "text-align: right;">
-
+::: {style="text-align: right;"}
 Abigail Borgmeier
 
 Ashley Bulseco
@@ -20,5 +19,4 @@ Francis Chaves Rodriguez
 McKinley Nevins
 
 Smriti Pehim Limbu
-
-</div>
+:::
