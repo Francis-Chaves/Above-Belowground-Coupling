@@ -1,0 +1,39 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+
+website:
+  title: "Above-Belowground Coupling"
+  repo-url: https://github.com/Francis-Chaves/Above-Belowground-Coupling.git
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "People"
+        href: people.qmd
+      - text: "Contact Us"
+        href: contact.qmd
+    right: 
+      - icon: github
+        href: https://github.com/Francis-Chaves/Above-Belowground-Coupling.git
+  page-footer: 
+    center: "Copyright 2025, Above-Belowground Coupling Working Group"
+    background: secondary
+
+format:
+  html:
+    theme:
+      light: theme_light.scss
+      dark: theme_dark.scss
+    mainfont: Raleway
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
