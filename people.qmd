@@ -1,5 +1,5 @@
 ---
-title: "Working Group People"
+title: "Who We Are"
 editor: visual
 ---
 
@@ -10,14 +10,15 @@ editor: visual
 
 </p>
 
-::: {style="text-align: left;"}
-Abigail Borgmeier
 
-Ashley Bulseco
+_Icon legend: {{< fa brands github >}} = GitHub | {{< fa globe >}} = website | {{< fa brands orcid >}} = ORCID_
 
-Francis Chaves Rodriguez
+## Principal Investigators
 
-McKinley Nevins
 
-Smriti Pehim Limbu
-:::
+- Abigail Borgmeier | [{{< fa brands orcid >}}](https://orcid.org/0009-0003-7244-6255)
+- Ashley Bulseco | [{{< fa brands github >}}](https://github.com/abulseco) [{{< fa globe >}}](http://ashley.bulseco.org/) [{{< fa brands orcid >}}](https://orcid.org/my-orcid?orcid=0000-0001-5322-3070)
+- Francis Chaves Rodriguez | [{{< fa brands github >}}](https://github.com/Francis-Chaves) [{{< fa brands orcid >}}](https://orcid.org/0000-0002-0013-6755)
+- McKinley Nevins | [{{< fa brands github >}}](https://github.com/lmnevins https://orcid.org/0000-0001-6340-5900 https://lmnevins23.wixsite.com/lmnevins) [{{< fa globe >}}](https://lmnevins23.wixsite.com/lmnevins)
+- Smriti Pehim Limbu | [{{< fa brands github >}}](https://github.com/Smritipehimlimbu) [{{< fa brands orcid >}}](https://orcid.org/0000-0001-9086-7895) 
+
