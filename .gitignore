@@ -55,5 +55,6 @@ docs/
 # R Project
 *.Rproj
 
-# ignore images folder
-images/
+# images not to commit
+images/photos/ssecr-delarosa-2024-15-X4.png
+images/photos/ssecr-delarosa-2024-16-X5.png
