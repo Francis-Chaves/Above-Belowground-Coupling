@@ -3,6 +3,4 @@ title: "Contact Us"
 editor: visual
 ---
 
-If you would like to contribute datasets or if you are interested in collaborations or have questions or comments, please contact us!
-
-Contact the (\[SABRE Team\](<https://forms.gle/sQKcXkAuivyXNKmf7>)) for more details!
+If you would like to contribute datasets or if you are interested in collaborations or have questions or comments, please [contact The SABRE Team](https://forms.gle/sQKcXkAuivyXNKmf7) for more details!
